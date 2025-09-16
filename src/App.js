@@ -14,6 +14,12 @@ function App() {
             <Film Image="https://www.stylowy.net/data/film/38/3855_500x720.jpg" MainTag="Historyczny" Title="Film3" SubTags={["test1","test2"]} Description="TestTestTest" TimeTable={["10:25 - 12:00","11:30-12:30"]}>
 
             </Film>
+            <Film Image="https://www.stylowy.net/data/film/38/3855_500x720.jpg" MainTag="Historyczny" Title="Film4" SubTags={["test1","test2"]} Description="TestTestTest" TimeTable={["10:25 - 12:00","11:30-12:30"]}>
+
+            </Film>
+            <Film Image="https://www.stylowy.net/data/film/38/3855_500x720.jpg" MainTag="Historyczny" Title="Film5" SubTags={["test1","test2"]} Description="TestTestTest" TimeTable={["10:25 - 12:00","11:30-12:30"]}>
+
+            </Film>
         </div>
 
 
